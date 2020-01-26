@@ -1,0 +1,10 @@
+
+body {
+    background: white;
+}
+
+canvas {
+    height: 500;
+    width: 500;
+    background: lightblue;
+}
